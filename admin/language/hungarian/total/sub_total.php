@@ -1,6 +1,6 @@
-$_['heading_title'] = 'Sub-Total';
-$_['text_total'] = 'Order Totals';
-$_['text_success'] = 'Success: You have modified sub-total total!';
-$_['entry_status'] = 'Status:';
-$_['entry_sort_order'] = 'Sort Order:';
-$_['error_permission'] = 'Warning: You do not have permission to modify sub-total total!';
+$_['heading_title'] = 'Részösszeg';
+$_['text_total'] = 'Összes rendelés';
+$_['text_success'] = 'Rendben, Az összes részösszeg módosítása megtörtént!';
+$_['entry_status'] = 'Állapot:';
+$_['entry_sort_order'] = 'Sorrend:';
+$_['error_permission'] = 'Figyelmeztetés: Az összes részösszeg módosítása az Ön számára nem engedélyezett!';

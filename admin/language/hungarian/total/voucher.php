@@ -1,6 +1,6 @@
-$_['heading_title'] = 'Gift Voucher';
-$_['text_total'] = 'Order Totals';
-$_['text_success'] = 'Success: You have modified gift voucher total!';
-$_['entry_status'] = 'Status:';
-$_['entry_sort_order'] = 'Sort Order:';
-$_['error_permission'] = 'Warning: You do not have permission to modify gift voucher total!';
+$_['heading_title'] = 'Ajándékutalvány';
+$_['text_total'] = 'Összes rendelés';
+$_['text_success'] = 'Rendben, az ajándékutalvány összesítésének módosítása megtörtént!';
+$_['entry_status'] = 'Állapot:';
+$_['entry_sort_order'] = 'Rendezés:';
+$_['error_permission'] = 'Figyelmeztetés: Ön nem jogosult az ajándékutalvány összesítésének módosításához!';
