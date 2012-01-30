@@ -1,3 +1,4 @@
+<?
 $_['text_refine'] = 'Refine Search';
 $_['text_product'] = 'Products';
 $_['text_error'] = 'Category not found!';
@@ -24,3 +25,4 @@ $_['text_rating_desc'] = 'Rating (Highest)';
 $_['text_model_asc'] = 'Model (A - Z)';
 $_['text_model_desc'] = 'Model (Z - A)';
 $_['text_limit'] = 'Show:';
+?>

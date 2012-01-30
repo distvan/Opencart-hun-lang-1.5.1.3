@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'Affiliate Commission Report';
 $_['column_affiliate'] = 'Affiliate Name';
 $_['column_email'] = 'E-Mail';
@@ -8,3 +9,4 @@ $_['column_total'] = 'Total';
 $_['column_action'] = 'Action';
 $_['entry_date_start'] = 'Date Start:';
 $_['entry_date_end'] = 'Date End:';
+?>

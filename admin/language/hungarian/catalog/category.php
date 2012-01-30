@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'Category';
 $_['text_success'] = 'Success: You have modified categories!';
 $_['text_default'] = 'Default';
@@ -23,3 +24,4 @@ $_['entry_layout'] = 'Layout Override:';
 $_['error_warning'] = 'Warning: Please check the form carefully for errors!';
 $_['error_permission'] = 'Warning: You do not have permission to modify categories!';
 $_['error_name'] = 'Category Name must be between 2 and 32 characters!';
+?>

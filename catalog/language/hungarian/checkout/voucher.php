@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'Purchase a Gift Certificate';
 $_['text_voucher'] = 'Gift Voucher';
 $_['text_description'] = 'This gift certificate will be emailed to the recipient after your order has been paid for.';
@@ -17,3 +18,4 @@ $_['error_email'] = 'E-Mail Address does not appear to be valid!';
 $_['error_amount'] = 'Amount must be between %s and %s!';
 $_['error_theme'] = 'You must select a theme!';
 $_['error_agree'] = 'Warning: You must agree that the gift certificates are non-refundable!';
+?>

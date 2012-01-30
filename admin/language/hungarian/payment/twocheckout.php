@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = '2Checkout';
 $_['text_payment'] = 'Payment';
 $_['text_success'] = 'Success: You have modified 2Checkout account details!';
@@ -13,3 +14,4 @@ $_['entry_sort_order'] = 'Sort Order:';
 $_['error_permission'] = 'Warning: You do not have permission to modify payment 2Checkout!';
 $_['error_account'] = 'Account No. Required!';
 $_['error_secret'] = 'Secret Word Required!';
+?>

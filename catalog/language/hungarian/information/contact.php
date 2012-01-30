@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'Contact Us';
 $_['text_location'] = 'Our Location';
 $_['text_contact'] = 'Contact Form';
@@ -15,3 +16,4 @@ $_['error_name'] = 'Name must be between 3 and 32 characters!';
 $_['error_email'] = 'E-Mail Address does not appear to be valid!';
 $_['error_enquiry'] = 'Enquiry must be between 10 and 3000 characters!';
 $_['error_captcha'] = 'Verification code does not match the image!';
+?>

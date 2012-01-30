@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'Specials';
 $_['text_module'] = 'Modules';
 $_['text_success'] = 'Success: You have modified module specials!';
@@ -13,3 +14,4 @@ $_['entry_status'] = 'Status:';
 $_['entry_sort_order'] = 'Sort Order:';
 $_['error_permission'] = 'Warning: You do not have permission to modify module specials!';
 $_['error_image'] = 'Image width &amp; height dimensions required!';
+?>

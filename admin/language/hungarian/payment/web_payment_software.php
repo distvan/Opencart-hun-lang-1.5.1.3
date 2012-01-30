@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'Web Payment Software';
 $_['text_payment'] = 'Payment';
 $_['text_success'] = 'Success: You have modified Web Payment Software account details!';
@@ -18,3 +19,4 @@ $_['entry_sort_order'] = 'Sort Order:';
 $_['error_permission'] = 'Warning: You do not have permission to modify payment Web Payment Software!';
 $_['error_login'] = 'Login ID Required!';
 $_['error_key'] = 'Transaction Key Required!';
+?>

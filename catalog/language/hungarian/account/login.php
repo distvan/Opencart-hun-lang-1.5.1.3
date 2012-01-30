@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'Account Login';
 $_['text_account'] = 'Account';
 $_['text_login'] = 'Login';
@@ -10,3 +11,4 @@ $_['text_forgotten'] = 'Forgotten Password';
 $_['entry_email'] = 'E-Mail Address:';
 $_['entry_password'] = 'Password:';
 $_['error_login'] = 'Warning: No match for E-Mail Address and/or Password.';
+?>

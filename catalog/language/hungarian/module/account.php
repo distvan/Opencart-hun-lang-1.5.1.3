@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'Account';
 $_['text_register'] = 'Register';
 $_['text_login'] = 'Login';
@@ -12,3 +13,4 @@ $_['text_download'] = 'Downloads';
 $_['text_return'] = 'Returns';
 $_['text_transaction'] = 'Transactions';
 $_['text_newsletter'] = 'Newsletter';
+?>

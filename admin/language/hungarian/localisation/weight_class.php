@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'Weight Class';
 $_['text_success'] = 'Success: You have modified weight classes!';
 $_['column_title'] = 'Weight Title';
@@ -12,3 +13,4 @@ $_['error_title'] = 'Weight Title must be between 3 and 32 characters!';
 $_['error_unit'] = 'Weight Unit must be between 1 and 4 characters!';
 $_['error_default'] = 'Warning: This weight class cannot be deleted as it is currently assigned as the default store weight class!';
 $_['error_product'] = 'Warning: This weight class cannot be deleted as it is currently assigned to %s products!';
+?>

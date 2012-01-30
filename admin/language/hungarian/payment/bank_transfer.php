@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'Bank Transfer';
 $_['text_payment'] = 'Payment';
 $_['text_success'] = 'Success: You have modified bank transfer details!';
@@ -9,3 +10,4 @@ $_['entry_status'] = 'Status:';
 $_['entry_sort_order'] = 'Sort Order:';
 $_['error_permission'] = 'Warning: You do not have permission to modify payment bank transfer!';
 $_['error_bank'] = 'Bank Transfer Instructions Required!';
+?>

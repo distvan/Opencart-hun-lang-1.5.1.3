@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'Order History';
 $_['text_account'] = 'Account';
 $_['text_order'] = 'Order Information';
@@ -30,3 +31,4 @@ $_['column_date_added'] = 'Date Added';
 $_['column_status'] = 'Status';
 $_['column_comment'] = 'Comment';
 $_['error_warning'] = 'Warning: you must select some products and an action complete your request!';
+?>

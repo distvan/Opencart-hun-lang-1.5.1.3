@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'PayPoint';
 $_['text_payment'] = 'Payment';
 $_['text_success'] = 'Success: You have modified PayPoint account details!';
@@ -14,3 +15,4 @@ $_['entry_status'] = 'Status:';
 $_['entry_sort_order'] = 'Sort Order:';
 $_['error_permission'] = 'Warning: You do not have permission to modify payment PayPoint!';
 $_['error_merchant'] = 'Merchant ID Required!';
+?>

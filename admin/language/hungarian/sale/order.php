@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'Orders';
 $_['text_success'] = 'Success: You have modified orders!';
 $_['text_order_id'] = 'Order ID:';
@@ -110,3 +111,4 @@ $_['error_upload'] = 'Upload required!';
 $_['error_filename'] = 'Filename must be between 3 and 128 characters!';
 $_['error_filetype'] = 'Invalid file type!';
 $_['error_action'] = 'Warning: Could not complete this action!';
+?>

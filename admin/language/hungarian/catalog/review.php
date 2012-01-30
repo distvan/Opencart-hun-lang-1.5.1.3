@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'Reviews';
 $_['text_success'] = 'Success: You have modified reviews!';
 $_['column_product'] = 'Product';
@@ -18,3 +19,4 @@ $_['error_product'] = 'Product required!';
 $_['error_author'] = 'Author must be between 3 and 64 characters!';
 $_['error_text'] = 'Review Text must be at least 1 character!';
 $_['error_rating'] = 'Review rating required!';
+?>

@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'Cheque / Money Order';
 $_['text_payment'] = 'Payment';
 $_['text_success'] = 'Success: You have modified cheque / money order account details!';
@@ -9,3 +10,4 @@ $_['entry_status'] = 'Status:';
 $_['entry_sort_order'] = 'Sort Order:';
 $_['error_permission'] = 'Warning: You do not have permission to modify payment cheque / money order!';
 $_['error_payable'] = 'Payable To Required!';
+?>

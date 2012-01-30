@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'My Wish List';
 $_['text_account'] = 'Account';
 $_['text_instock'] = 'In Stock';
@@ -12,3 +13,4 @@ $_['column_model'] = 'Model';
 $_['column_stock'] = 'Stock';
 $_['column_price'] = 'Unit Price';
 $_['column_cart'] = 'Buy Now';
+?>

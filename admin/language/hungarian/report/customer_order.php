@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'Customer Orders Report';
 $_['text_all_status'] = 'All Statuses';
 $_['column_customer'] = 'Customer Name';
@@ -11,3 +12,4 @@ $_['column_action'] = 'Action';
 $_['entry_date_start'] = 'Date Start:';
 $_['entry_date_end'] = 'Date End:';
 $_['entry_status'] = 'Order Status:';
+?>

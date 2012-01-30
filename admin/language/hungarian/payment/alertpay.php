@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'AlertPay';
 $_['text_payment'] = 'Payment';
 $_['text_success'] = 'Success: You have modified AlertPay account details!';
@@ -12,3 +13,4 @@ $_['entry_sort_order'] = 'Sort Order:';
 $_['error_permission'] = 'Warning: You do not have permission to modify payment AlertPay!';
 $_['error_merchant'] = 'Merchant ID Required!';
 $_['error_security'] = 'Security Code Required!';
+?>

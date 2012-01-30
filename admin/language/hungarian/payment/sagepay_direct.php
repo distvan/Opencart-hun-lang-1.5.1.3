@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'SagePay Direct';
 $_['text_payment'] = 'Payment';
 $_['text_success'] = 'Success: You have modified SagePay account details!';
@@ -17,3 +18,4 @@ $_['entry_status'] = 'Status:';
 $_['entry_sort_order'] = 'Sort Order:';
 $_['error_permission'] = 'Warning: You do not have permission to modify payment SagePay!';
 $_['error_vendor'] = 'Vendor ID Required!';
+?>

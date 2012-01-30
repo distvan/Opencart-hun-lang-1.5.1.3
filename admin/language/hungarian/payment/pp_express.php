@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'PayPal Express';
 $_['text_payment'] = 'Payment';
 $_['text_success'] = 'Success: You have modified PayPal Express Checkout account details!';
@@ -18,3 +19,4 @@ $_['error_permission'] = 'Warning: You do not have permission to modify payment 
 $_['error_username'] = 'API Username Required!';
 $_['error_password'] = 'API Password Required!';
 $_['error_signature'] = 'API Signature Required!';
+?>

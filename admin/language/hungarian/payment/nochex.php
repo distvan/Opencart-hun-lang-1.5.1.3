@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'NOCHEX';
 $_['text_payment'] = 'Payment';
 $_['text_success'] = 'Success: You have modified NOCHEX account details!';
@@ -17,3 +18,4 @@ $_['entry_sort_order'] = 'Sort Order:';
 $_['error_permission'] = 'Warning: You do not have permission to modify payment NOCHEX!';
 $_['error_email'] = 'E-Mail Required!';
 $_['error_merchant'] = 'Merchant ID Required!';
+?>

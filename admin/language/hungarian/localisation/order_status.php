@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'Order Status';
 $_['text_success'] = 'Success: You have modified order statuses!';
 $_['column_name'] = 'Order Status Name';
@@ -9,3 +10,4 @@ $_['error_default'] = 'Warning: This order status cannot be deleted as it is cur
 $_['error_download'] = 'Warning: This order status cannot be deleted as it is currently assigned as the default download status!';
 $_['error_store'] = 'Warning: This order status cannot be deleted as it is currently assigned to %s stores!';
 $_['error_order'] = 'Warning: This order status cannot be deleted as it is currently assigned to %s orders!';
+?>

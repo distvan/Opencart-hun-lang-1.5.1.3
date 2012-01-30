@@ -1,3 +1,4 @@
+<?
 $_['text_title'] = 'Credit or Debit Card (Processed securely by PayPal)';
 $_['text_credit_card'] = 'Credit Card Details';
 $_['text_start_date'] = '(if available)';

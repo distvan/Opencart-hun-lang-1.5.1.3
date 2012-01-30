@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'Coupon';
 $_['text_success'] = 'Success: You have modified coupons!';
 $_['text_percent'] = 'Percentage';
@@ -30,3 +31,4 @@ $_['entry_status'] = 'Status:';
 $_['error_permission'] = 'Warning: You do not have permission to modify coupons!';
 $_['error_name'] = 'Coupon Name must be between 3 and 128 characters!';
 $_['error_code'] = 'Code must be between 3 and 10 characters!';
+?>

@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'UPS';
 $_['text_shipping'] = 'Shipping';
 $_['text_success'] = 'Success: You have modified UPS shipping!';
@@ -79,3 +80,4 @@ $_['error_password'] = 'Password Required!';
 $_['error_city'] = 'Origin City!';
 $_['error_state'] = 'Origin State/Province Required!';
 $_['error_country'] = 'Origin Country Required!';
+?>

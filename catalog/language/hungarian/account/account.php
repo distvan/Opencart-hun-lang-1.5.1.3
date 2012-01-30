@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'My Account';
 $_['text_account'] = 'Account';
 $_['text_my_account'] = 'My Account';
@@ -13,3 +14,4 @@ $_['text_reward'] = 'Your Reward Points';
 $_['text_return'] = 'View your return requests';
 $_['text_transaction'] = 'Your Transactions';
 $_['text_newsletter'] = 'Subscribe / unsubscribe to newsletter';
+?>

@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'Customer Reward Points Report';
 $_['column_customer'] = 'Customer Name';
 $_['column_email'] = 'E-Mail';
@@ -9,3 +10,4 @@ $_['column_total'] = 'Total';
 $_['column_action'] = 'Action';
 $_['entry_date_start'] = 'Date Start:';
 $_['entry_date_end'] = 'Date End:';
+?>

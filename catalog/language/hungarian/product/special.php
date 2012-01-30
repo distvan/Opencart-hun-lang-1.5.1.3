@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'Special Offers';
 $_['text_empty'] = 'There are no special offer products to list.';
 $_['text_quantity'] = 'Qty:';
@@ -22,3 +23,4 @@ $_['text_rating_desc'] = 'Rating (Highest)';
 $_['text_model_asc'] = 'Model (A - Z)';
 $_['text_model_desc'] = 'Model (Z - A)';
 $_['text_limit'] = 'Show:';
+?>

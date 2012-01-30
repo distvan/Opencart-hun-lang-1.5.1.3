@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'Estimate Shipping &amp; Taxes';
 $_['text_shipping'] = 'Enter your destination to get a shipping estimate.';
 $_['text_success'] = 'Success: Your shipping estimate has been applied!';
@@ -9,3 +10,4 @@ $_['error_country'] = 'Please select a country!';
 $_['error_zone'] = 'Please select a region / state!';
 $_['error_shipping'] = 'Warning: Shipping method required!';
 $_['error_no_shipping'] = 'Warning: No Shipping options are available. Please <a href="%s">contact us</a> for assistance!';
+?>

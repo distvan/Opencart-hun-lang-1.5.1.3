@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'Google Talk';
 $_['text_module'] = 'Modules';
 $_['text_success'] = 'Success: You have modified module Google Talk!';
@@ -12,3 +13,4 @@ $_['entry_status'] = 'Status:';
 $_['entry_sort_order'] = 'Sort Order:';
 $_['error_permission'] = 'Warning: You do not have permission to modify module Google Talk!';
 $_['error_code'] = 'Code Required';
+?>

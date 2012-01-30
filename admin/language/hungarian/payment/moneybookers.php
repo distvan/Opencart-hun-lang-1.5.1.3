@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'Moneybookers';
 $_['text_payment'] = 'Payment';
 $_['text_success'] = 'Success: You have modified the Moneybookers details.';
@@ -15,3 +16,4 @@ $_['entry_status'] = 'Status:';
 $_['entry_sort_order'] = 'Sort Order:';
 $_['error_permission'] = 'Warning: You do not have permission to modify Moneybookers!';
 $_['error_email'] = 'E-Mail Required!';
+?>

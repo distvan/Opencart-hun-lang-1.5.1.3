@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'LIQPAY';
 $_['text_payment'] = 'Payment';
 $_['text_success'] = 'Success: You have modified LIQPAY account details!';
@@ -14,3 +15,4 @@ $_['entry_sort_order'] = 'Sort Order:';
 $_['error_permission'] = 'Warning: You do not have permission to modify payment LIQPAY!';
 $_['error_merchant'] = 'Merchant ID Required!';
 $_['error_signature'] = 'Signature Required!';
+?>

@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'PayPal Website Payment Pro (UK)';
 $_['text_payment'] = 'Payment';
 $_['text_success'] = 'Success: You have modified PayPal Direct (UK) account details!';
@@ -20,3 +21,4 @@ $_['error_vendor'] = 'Vendor Required!';
 $_['error_user'] = 'User Required!';
 $_['error_password'] = 'Password Required!';
 $_['error_partner'] = 'Partner Required!';
+?>

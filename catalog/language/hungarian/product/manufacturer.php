@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'Find Your Favorite Brand';
 $_['text_brand'] = 'Brand';
 $_['text_index'] = 'Brand Index:';
@@ -25,3 +26,4 @@ $_['text_rating_desc'] = 'Rating (Highest)';
 $_['text_model_asc'] = 'Model (A - Z)';
 $_['text_model_desc'] = 'Model (Z - A)';
 $_['text_limit'] = 'Show:';
+?>

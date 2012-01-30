@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'Layouts';
 $_['text_success'] = 'Success: You have modified layouts!';
 $_['text_default'] = 'Default';
@@ -13,3 +14,4 @@ $_['error_store'] = 'Warning: This layout cannot be deleted as it is currently a
 $_['error_product'] = 'Warning: This layout cannot be deleted as it is currently assigned to %s products!';
 $_['error_category'] = 'Warning: This layout cannot be deleted as it is currently assigned to %s categories!';
 $_['error_information'] = 'Warning: This layout cannot be deleted as it is currently assigned to %s information pages!';
+?>

@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'Affiliate';
 $_['text_register'] = 'Register';
 $_['text_login'] = 'Login';
@@ -9,3 +10,4 @@ $_['text_password'] = 'Password';
 $_['text_payment'] = 'Payment Options';
 $_['text_tracking'] = 'Affiliate Tracking';
 $_['text_transaction'] = 'Transactions';
+?>

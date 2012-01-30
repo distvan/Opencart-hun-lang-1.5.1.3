@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'Customer Credit Report';
 $_['column_customer'] = 'Customer Name';
 $_['column_email'] = 'E-Mail';

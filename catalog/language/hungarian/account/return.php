@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'Product Returns';
 $_['text_account'] = 'Account';
 $_['text_return'] = 'Return Information';
@@ -50,3 +51,4 @@ $_['error_name'] = 'Product Name must be greater than 3 and less than 255 charac
 $_['error_model'] = 'Product Model must be greater than 3 and less than 64 characters!';
 $_['error_reason'] = 'You must select at a return product reason!';
 $_['error_captcha'] = 'Verification code does not match the image!';
+?>

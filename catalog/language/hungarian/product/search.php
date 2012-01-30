@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'Search';
 $_['text_search'] = 'Products meeting the search criteria';
 $_['text_keyword'] = 'Keywords';
@@ -29,3 +30,4 @@ $_['text_model_desc'] = 'Model (Z - A)';
 $_['text_limit'] = 'Show:';
 $_['entry_search'] = 'Search:';
 $_['entry_description'] = 'Search in product descriptions';
+?>

@@ -1,3 +1,4 @@
+<?
 $_['text_home'] = 'Home';
 $_['text_wishlist'] = 'Wish List (%s)';
 $_['text_cart'] = 'Shopping Cart';
@@ -9,3 +10,4 @@ $_['text_account'] = 'My Account';
 $_['text_checkout'] = 'Checkout';
 $_['text_language'] = 'Language';
 $_['text_currency'] = 'Currency';
+?>

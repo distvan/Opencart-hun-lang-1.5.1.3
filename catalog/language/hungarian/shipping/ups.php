@@ -1,3 +1,4 @@
+<?
 $_['text_title'] = 'United Parcel Service';
 $_['text_weight'] = 'Weight:';
 $_['text_us_origin_01'] = 'UPS Next Day Air';
@@ -45,3 +46,4 @@ $_['text_other_origin_08'] = 'UPS Worldwide Expedited';
 $_['text_other_origin_11'] = 'UPS Standard';
 $_['text_other_origin_54'] = 'UPS Worldwide Express Plus';
 $_['text_other_origin_65'] = 'UPS Saver';
+?>

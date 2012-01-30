@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'Authorize.Net (AIM)';
 $_['text_payment'] = 'Payment';
 $_['text_success'] = 'Success: You have modified Authorize.Net (AIM) account details!';
@@ -19,3 +20,4 @@ $_['entry_sort_order'] = 'Sort Order:';
 $_['error_permission'] = 'Warning: You do not have permission to modify payment Authorize.Net (SIM)!';
 $_['error_login'] = 'Login ID Required!';
 $_['error_key'] = 'Transaction Key Required!';
+?>

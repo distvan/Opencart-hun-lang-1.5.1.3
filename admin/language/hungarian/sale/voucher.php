@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'Gift Voucher';
 $_['text_send'] = 'Send';
 $_['text_success'] = 'Success: You have modified vouchers!';
@@ -29,3 +30,4 @@ $_['error_to_name'] = 'Recipient\'s Name must be between 1 and 64 characters!';
 $_['error_from_name'] = 'Your Name must be between 1 and 64 characters!';
 $_['error_email'] = 'E-Mail Address does not appear to be valid!';
 $_['error_amount'] = 'Amount must be greater than or equal to 1!';
+?>

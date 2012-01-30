@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'Tax Report';
 $_['text_year'] = 'Years';
 $_['text_month'] = 'Months';
@@ -13,3 +14,4 @@ $_['entry_date_start'] = 'Date Start:';
 $_['entry_date_end'] = 'Date End:';
 $_['entry_group'] = 'Group By:';
 $_['entry_status'] = 'Order Status:';
+?>

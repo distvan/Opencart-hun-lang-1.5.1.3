@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'Shopping Cart';
 $_['text_weight'] = 'Cart Weight:';
 $_['text_reward'] = 'Reward Points: %s';
@@ -15,3 +16,4 @@ $_['column_total'] = 'Total';
 $_['error_stock'] = 'Products marked with *** are not available in the desired quantity or not in stock!';
 $_['error_minimum'] = 'Minimum order amount for %s is %s!';
 $_['error_required'] = '%s required!';
+?>

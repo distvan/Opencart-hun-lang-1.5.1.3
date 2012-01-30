@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'Checkout';
 $_['text_cart'] = 'Shopping Cart';
 $_['text_checkout_option'] = 'Step 1: Checkout Options';
@@ -69,3 +70,4 @@ $_['error_shipping'] = 'Warning: Shipping method required!';
 $_['error_no_shipping'] = 'No Shipping options are available. Please <a href="%s">contact us</a> for assistance!';
 $_['error_payment'] = 'Warning: Payment method required!';
 $_['error_no_payment'] = 'Warning: No Payment options are available. Please <a href="%s">contact us</a> for assistance!';
+?>

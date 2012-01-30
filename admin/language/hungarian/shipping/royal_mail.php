@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'Royal Mail';
 $_['text_shipping'] = 'Shipping';
 $_['text_success'] = 'Success: You have modified Royal Mail shipping!';
@@ -33,3 +34,4 @@ $_['tab_international_signed'] = 'International Signed';
 $_['tab_airsure'] = 'Airsure';
 $_['tab_surface'] = 'Surface';
 $_['error_permission'] = 'Warning: You do not have permission to modify Royal Mail shipping!';
+?>

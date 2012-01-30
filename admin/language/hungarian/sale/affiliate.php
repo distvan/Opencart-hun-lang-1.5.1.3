@@ -1,3 +1,4 @@
+<?
 $_['heading_title'] = 'Affiliate';
 $_['text_success'] = 'Success: You have modified affiliates!';
 $_['text_approved'] = 'You have approved %s accounts!';
@@ -58,3 +59,4 @@ $_['error_postcode'] = 'Postcode must be between 2 and 10 characters for this co
 $_['error_country'] = 'Please select a country!';
 $_['error_zone'] = 'Please select a region / state!';
 $_['error_code'] = 'Tracking Code required!';
+?>
